@@ -8,7 +8,6 @@
 *.raw
 INSTRUCTIONS.txt
 INSTALL_AND_DECRYPT.md
-extract_key.py
 full_ordinal351.txt
 ordinal351_disasm.txt
 player_files/
