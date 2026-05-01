@@ -1,0 +1,17 @@
+*.gem
+*.mp4
+*.m4a
+*.pcm
+*.rar
+*.exe
+*.tmp
+*.raw
+INSTRUCTIONS.txt
+INSTALL_AND_DECRYPT.md
+extract_key.py
+full_ordinal351.txt
+ordinal351_disasm.txt
+player_files/
+player_extracted/
+installer_contents/
+__pycache__/
